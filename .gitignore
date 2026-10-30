@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# trace files and submission zips don't go in the repo
+*.trc
+*.zip
+# assignment handout
+*.pdf
