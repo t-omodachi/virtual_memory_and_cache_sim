@@ -1,4 +1,4 @@
-Cache Simulator - CS 3853 - Team #XX
+Cache Simulator - CS 3853 - Team #05
 
 Trace File(s):
 	A9_new_trunk.trc

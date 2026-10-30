@@ -3,7 +3,7 @@
 import sys
 import math
 
-TEAM_NUMBER = "XX"          # <-- set your team number
+TEAM_NUMBER = "05"
 COST_PER_KB = 0.07
 PAGE_SIZE = 4096            # 4 KB pages
 PT_ENTRIES = 512 * 1024     # 31-bit virtual addresses -> 512K PTEs
